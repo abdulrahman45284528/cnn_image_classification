@@ -14,7 +14,3 @@ This project implements a Convolutional Neural Network (CNN) in PyTorch to class
 ✅ Automatic saving of the best model based on validation accuracy  
 ✅ Supports training on **CPU** or **GPU (CUDA)**  
 
----
-
-## 📂 Folder Structure
-
